@@ -1,0 +1,148 @@
+[90m[11.32.30][39m [33m[Warning][39m Attempting to connect to the Discord bot... (1)
+[90m[11.32.31][39m [34m[Info][39m Loaded new message command: messagecommand-eval.js
+[90m[11.32.31][39m [34m[Info][39m Loaded new message command: messagecommand-reload.js
+[90m[11.32.31][39m [34m[Info][39m Loaded new application command: slashcommand-eval.js
+[90m[11.32.31][39m [34m[Info][39m Loaded new application command: slashcommand-reload.js
+[90m[11.32.31][39m [34m[Info][39m Loaded new message command: messagecommand-help.js
+[90m[11.32.31][39m [34m[Info][39m Loaded new application command: slashcommand-help.js
+[90m[11.32.32][39m [34m[Info][39m Loaded new application command: radio.js
+[90m[11.32.32][39m [34m[Info][39m Loaded new application command: radiostop.js
+[90m[11.32.32][39m [34m[Info][39m Loaded new application command: volume.js
+[90m[11.32.32][39m [34m[Info][39m Loaded new application command: messagecontext-messageinfo.js
+[90m[11.32.32][39m [34m[Info][39m Loaded new application command: slashcommand-autocomplete.js
+[90m[11.32.32][39m [34m[Info][39m Loaded new application command: slashcommand-components.js
+[90m[11.32.32][39m [34m[Info][39m Loaded new application command: slashcommand-show-modal.js
+[90m[11.32.32][39m [34m[Info][39m Loaded new application command: usercontext-userinfo.js
+[90m[11.32.32][39m [34m[Info][39m Loaded new message command: messagecommand-ping.js
+[90m[11.32.32][39m [34m[Info][39m Loaded new message command: messagecommand-setprefix.js
+[90m[11.32.32][39m [34m[Info][39m Loaded new application command: slashcommand-ping.js
+[90m[11.32.32][39m [32m[OK][39m Successfully loaded 12 application commands and 5 message commands.
+[90m[11.32.32][39m [34m[Info][39m Loaded new component (type: autocomplete) : example-autocomplete.js
+[90m[11.32.32][39m [34m[Info][39m Loaded new component (type: button) : example-button.js
+[90m[11.32.32][39m [34m[Info][39m Loaded new component (type: modal) : example-modal.js
+[90m[11.32.32][39m [34m[Info][39m Loaded new component (type: select) : example-menu.js
+[90m[11.32.32][39m [32m[OK][39m Successfully loaded 4 components.
+[90m[11.32.32][39m [34m[Info][39m Loaded new event: onReady.js
+[90m[11.32.32][39m [32m[OK][39m Successfully loaded 1 events.
+[90m[11.32.32][39m [33m[Warning][39m Attempting to register application commands... (this might take a while!)
+[90m[11.32.32][39m [32m[OK][39m Logged in as Silvia, took 1.953s.
+[90m[11.32.32][39m [32m[OK][39m Successfully registered application commands. For specific guild? Yes
+[90m[11.33.33][39m [34m[Info][39m Now Playing status updated: Moona Hoshinova - 愛の小さな歌 - Remastered ver.
+[90m[11.34.33][39m [34m[Info][39m Now Playing status updated: Ayunda Risu; Moona Hoshinova; Airani Iofifteen; Kureiji Ollie; Anya Melfissa; Pavolia Reine; Vestia Zeta; Kaela Kovalskia; Kobo Kanaeru; hololive Indonesia - HI:STREET TIME
+[90m[11.37.33][39m [34m[Info][39m Now Playing status updated: Armada - Mabuk Cinta
+[90m[11.40.33][39m [34m[Info][39m Now Playing status updated: Sheila On 7 - Kita
+[90m[11.45.33][39m [34m[Info][39m Now Playing status updated: Devano - Menyimpan Rasa
+[90m[11.48.33][39m [34m[Info][39m Now Playing status updated: Iwan Fals - Ijinkan Aku Menyayangimu
+[90m[11.49.33][39m [34m[Info][39m Now Playing status updated: Nadhif Basalamah - kota ini tak sama tanpamu
+[90m[11.50.33][39m [34m[Info][39m Now Playing status updated: Virgoun; Audy - Selamat (Selamat Tinggal)
+[90m[11.55.33][39m [34m[Info][39m Now Playing status updated: Elaine Celestia Ft. Ayunda Risu - Cat Loving
+[90m[11.58.33][39m [34m[Info][39m Now Playing status updated: Ratu - Aku Baik-Baik Saja
+[90m[12.04.33][39m [34m[Info][39m Now Playing status updated: Utopia - Hujan
+[90m[12.07.33][39m [34m[Info][39m Now Playing status updated: Lyodra - Tak Dianggap
+[90m[12.10.33][39m [34m[Info][39m Now Playing status updated: Tommy J Pisa - Dibatas Kota Ini
+[90m[12.15.33][39m [34m[Info][39m Now Playing status updated: Tommy J Pisa - Biarkan Aku Menangis
+[90m[12.19.33][39m [34m[Info][39m Now Playing status updated: JKT48 - Hanya Lihat Ke Depan
+[90m[12.23.33][39m [34m[Info][39m Now Playing status updated: JKT48 - Dirimu Melody - Kimi Wa Melody
+[90m[12.28.33][39m [34m[Info][39m Now Playing status updated: Pavolia Reine - Love Me Love Me
+[90m[12.31.33][39m [34m[Info][39m Now Playing status updated: hololive Indonesia - Show Them (Who You Are)
+[90m[12.35.33][39m [34m[Info][39m Now Playing status updated: Raisa - Kali Kedua
+[90m[12.40.33][39m [34m[Info][39m Now Playing status updated: Gamma1 - Hidup Segan Mati Tak Mau
+[90m[12.44.33][39m [34m[Info][39m Now Playing status updated: Shaggydog - Kembali Berdansa
+[90m[12.47.33][39m [34m[Info][39m Now Playing status updated: Juicy Luicy - Lagu Nikah
+[90m[12.51.33][39m [34m[Info][39m Now Playing status updated: Nidji - Hapus Aku
+[90m[12.55.33][39m [34m[Info][39m Now Playing status updated: Guyon Waton - Wirang
+[90m[13.00.33][39m [34m[Info][39m Now Playing status updated: Idgitaf - Terpikat Senyummu
+[90m[13.03.33][39m [34m[Info][39m Now Playing status updated: Juicy Luicy - Tampar
+[90m[13.06.33][39m [34m[Info][39m Now Playing status updated: Kotak - Pelan Pelan Saja
+[90m[13.10.33][39m [34m[Info][39m Now Playing status updated: Idgitaf - Sedia Aku Sebelum Hujan
+[90m[13.14.33][39m [34m[Info][39m Now Playing status updated: Rony Parulian - Tak Ada Ujungnya
+[90m[13.17.33][39m [34m[Info][39m Now Playing status updated: Kerispatih - Tapi Bukan Aku
+[90m[13.22.33][39m [34m[Info][39m Now Playing status updated: The Mercy's - Hidupku Sunyi
+[90m[13.24.33][39m [34m[Info][39m Now Playing status updated: Panbers - Terlambat Sudah
+[90m[13.28.33][39m [34m[Info][39m Now Playing status updated: Blink - Salamun Alaik
+[90m[13.32.33][39m [34m[Info][39m Now Playing status updated: Ayunda Risu - ALiCE&u
+[90m[13.36.33][39m [34m[Info][39m Now Playing status updated: Pavolia Reine - あの青空のせいだ
+[90m[13.39.33][39m [34m[Info][39m Now Playing status updated: Ayunda Risu - Sing Out
+[90m[13.43.33][39m [34m[Info][39m Now Playing status updated: Kotak - Selalu CInta
+[90m[13.48.33][39m [34m[Info][39m Now Playing status updated: T.R.I.A.D - Sedang Mikirin Kamu
+[90m[13.52.33][39m [34m[Info][39m Now Playing status updated: Tulus - Lagu Untuk Matahari
+[90m[13.56.33][39m [34m[Info][39m Now Playing status updated: Fiersa Besari; Thantri Sundari - Waktu Yang Salah
+[90m[14.01.33][39m [34m[Info][39m Now Playing status updated: Audy - Menangis Semalam
+[90m[14.05.33][39m [34m[Info][39m Now Playing status updated: Swellow - pasang
+[90m[14.10.32][39m [34m[Info][39m Now Playing status updated: Judika - Bagaimana Kalau Aku Tidak Baik Baik Saja
+[90m[14.14.32][39m [34m[Info][39m Now Playing status updated: MALIQ & D'Essentials - Pilihanku
+[90m[14.17.32][39m [34m[Info][39m Now Playing status updated: Pee Wee Gaskins - Sebuah Rahasia
+[90m[14.27.32][39m [34m[Info][39m Now Playing status updated: Anie Carera - Cintaku Tak Terbatas Waktu
+[90m[14.32.32][39m [34m[Info][39m Now Playing status updated: Kobo Kanaeru; Takanashi Kiara - 1日ヒーロー
+[90m[14.36.32][39m [34m[Info][39m Now Playing status updated: Kobo Kanaeru - Sebatas Video Call
+[90m[14.39.32][39m [34m[Info][39m Now Playing status updated: Ayunda Risu; Moona Hoshinova; Airani Iofifteen; hololive Indonesia 1st Generation - HI-15
+[90m[14.41.33][39m [34m[Info][39m Now Playing status updated: Cherrybelle - Aku Pasti Bisa
+[90m[14.46.32][39m [34m[Info][39m Now Playing status updated: Ari Lasso - Seandainya
+[90m[14.51.32][39m [34m[Info][39m Now Playing status updated: Sheila On 7 - Tunjukkan Padaku
+[90m[14.55.32][39m [34m[Info][39m Now Playing status updated: Sheila On 7 - Just For My Mom
+[90m[14.58.32][39m [34m[Info][39m Now Playing status updated: Geisha - Cinta Dan Benci
+[90m[15.02.32][39m [34m[Info][39m Now Playing status updated: Acha Septriasa - Berdua Lebih Baik
+[90m[15.06.32][39m [34m[Info][39m Now Playing status updated: Padi - Terbakar Cemburu - Edited ver
+[90m[15.11.32][39m [34m[Info][39m Now Playing status updated: Barasuara - Terbuang Dalam Waktu
+[90m[15.15.32][39m [34m[Info][39m Now Playing status updated: Halstage - terima kasih
+[90m[15.18.33][39m [34m[Info][39m Now Playing status updated: Pamungkas - Risalah Hati
+[90m[15.24.32][39m [34m[Info][39m Now Playing status updated: Vanny Vabiola - Burung Pun Ingat Pulang
+[90m[15.28.32][39m [34m[Info][39m Now Playing status updated: Panbers - Gereja Tua
+[90m[15.32.32][39m [34m[Info][39m Now Playing status updated: Moona Hoshinova - Taut Hati
+[90m[15.36.32][39m [34m[Info][39m Now Playing status updated: Super Girlies - Hip Hip Hura
+[90m[15.40.32][39m [34m[Info][39m Now Playing status updated: Kaela Kovalskia - Backseat
+[90m[15.44.32][39m [34m[Info][39m Now Playing status updated: 7Icons - Tahan Cinta
+[90m[15.47.32][39m [34m[Info][39m Now Playing status updated: Agnes Monica - Rindu
+[90m[15.52.32][39m [34m[Info][39m Now Playing status updated: Gita Gutawa - Kembang Perawan
+[90m[15.55.32][39m [34m[Info][39m Now Playing status updated: Peterpan - Satu Hati
+[90m[15.59.32][39m [34m[Info][39m Now Playing status updated: Raim Laode - Komang
+[90m[16.03.32][39m [34m[Info][39m Now Playing status updated: Terry - Janji Manismu
+[90m[16.07.32][39m [34m[Info][39m Now Playing status updated: Afgan - Pesan Cinta
+[90m[16.11.32][39m [34m[Info][39m Now Playing status updated: Jaz - Berdua Bersama
+[90m[16.15.32][39m [34m[Info][39m Now Playing status updated: Yovie Widianto; Glenn Fredly - Kasih Putih
+[90m[16.18.32][39m [34m[Info][39m Now Playing status updated: Glenn Fredly - Sekali Ini Saja
+[90m[16.22.32][39m [34m[Info][39m Now Playing status updated: Gombloh - Apel
+[90m[16.26.32][39m [34m[Info][39m Now Playing status updated: Tagor Pangaribuan - Jangan Salah Menilai
+[90m[16.32.32][39m [34m[Info][39m Now Playing status updated: JKT48 - Oh my pumpkin! - JKT48 Version
+[90m[16.37.32][39m [34m[Info][39m Now Playing status updated: Kureiji Ollie - ゾンビ
+[90m[16.40.32][39m [34m[Info][39m Now Playing status updated: JKT48 - Baby!Baby!Baby!
+[90m[16.44.32][39m [34m[Info][39m Now Playing status updated: JKT48 - Percik Kecil - Theater Version
+[90m[16.47.32][39m [34m[Info][39m Now Playing status updated: Sandhy Sondoro - Tak Pernah Padam
+[90m[16.51.32][39m [34m[Info][39m Now Playing status updated: Lyla - Magic
+[90m[16.55.34][39m [34m[Info][39m Now Playing status updated: Sheila On 7; Aishameglio - Memori Baik
+[90m[16.59.33][39m [34m[Info][39m Now Playing status updated: Halstage - L
+[90m[17.03.33][39m [34m[Info][39m Now Playing status updated: Yura Yunita; Glenn Fredly - Cinta Dan Rahasia
+[90m[17.07.33][39m [34m[Info][39m Now Playing status updated: D’MASIV - Cinta Ini Membunuhku
+[90m[17.11.33][39m [34m[Info][39m Now Playing status updated: Dehearty - Inspirasi Hati
+[90m[17.16.33][39m [34m[Info][39m Now Playing status updated: Raihan - I'tiraf
+[90m[17.20.33][39m [34m[Info][39m Now Playing status updated: Dehearty - Pasrah Segalanya
+[90m[17.25.33][39m [34m[Info][39m Now Playing status updated: Imam Muda Nazrul; Imam Muda Fakhrul - Zikir Istighfar
+[90m[17.29.33][39m [34m[Info][39m Now Playing status updated: Element - Aku MerinduMu (Ya Allah)
+[90m[17.33.33][39m [34m[Info][39m Now Playing status updated: Dehearty - Permata Yang Dicari
+[90m[17.37.33][39m [34m[Info][39m Now Playing status updated: Nowseeheart - Damai
+[90m[17.41.34][39m [34m[Info][39m Now Playing status updated: Maher Zain - Rahmatun Lil’Alameen
+[90m[17.45.33][39m [34m[Info][39m Now Playing status updated: Letto - SEBENING SENJA
+[90m[17.48.33][39m [34m[Info][39m Now Playing status updated: Raihan; Ramlan Marzuki - Iman Mutiara
+[90m[17.53.33][39m [34m[Info][39m Now Playing status updated: Sal Priadi - Bulan Yang Baik
+[90m[17.57.33][39m [34m[Info][39m Now Playing status updated: Aeman - Anak Soleh
+[90m[18.02.33][39m [34m[Info][39m Now Playing status updated: Alif Satar & The Locos; Raihan - Puji Pujian x Syukur
+[90m[18.07.33][39m [34m[Info][39m Now Playing status updated: Dwiki Dharmawan; Jinan Laetitia - Dengan Menyebut Nama Allah
+[90m[18.11.33][39m [34m[Info][39m Now Playing status updated: Harris J - O Allah
+[90m[18.15.33][39m [34m[Info][39m Now Playing status updated: Maher Zain - For The Rest Of My Life
+[90m[18.19.33][39m [34m[Info][39m Now Playing status updated: Alif Satar; Raihan - Sesungguhnya2019
+[90m[18.24.33][39m [34m[Info][39m Now Playing status updated: Raihan; Ramlan Marzuki - Sifat 20
+[90m[18.29.33][39m [34m[Info][39m Now Playing status updated: Opick; Reza Artamevia - Engkau Tak Sendiri
+[90m[18.31.33][39m [34m[Info][39m Now Playing status updated: Ungu - Bulan Baik
+[90m[18.36.33][39m [34m[Info][39m Now Playing status updated: Unic; Aniq Muhai; Naufal Isa - JOM SOLAT
+[90m[18.39.33][39m [34m[Info][39m Now Playing status updated: Nowseeheart - Selawat Tenang Jiwa
+[90m[18.42.33][39m [34m[Info][39m Now Playing status updated: Kumpulan Far East - Menanti Di Barzakh
+[90m[18.47.33][39m [34m[Info][39m Now Playing status updated: Harris J - Salam Alaikum
+[90m[18.50.33][39m [34m[Info][39m Now Playing status updated: Gito Rollies; Gigi - Cinta Yang Tulus (feat. Gigi)
+[90m[18.55.33][39m [34m[Info][39m Now Playing status updated: Devotees - Tika Dinihari
+[90m[18.59.33][39m [34m[Info][39m Now Playing status updated: Mestica - Kerana Cinta
+[90m[19.07.33][39m [34m[Info][39m Now Playing status updated: Sheila On 7 - Dan...
+[90m[19.12.33][39m [34m[Info][39m Now Playing status updated: Kerispatih - Mengenangmu
+[90m[19.17.33][39m [34m[Info][39m Now Playing status updated: Juicy Luicy - Lantas
+[90m[19.20.33][39m [34m[Info][39m Now Playing status updated: Last Child - Duka
+[90m[19.26.33][39m [34m[Info][39m Now Playing status updated: Tommy J Pisa - Tommy J Pisa - Sepanjang Jalan Kenangan
+[90m[20.12.33][39m [34m[Info][39m Now Playing status updated: Dewa 19 - Kangen
